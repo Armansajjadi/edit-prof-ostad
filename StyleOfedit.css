@@ -168,7 +168,7 @@
     .notif{
         animation: notif-anim 2s ease-in-out forwards;
         width: 75%;
-        min-height: 70%;
+        min-height: 73%;
         transition: none;
         border: solid 2px #37B9F1;
     }
